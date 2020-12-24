@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JKOhM6R7qOCpeEbblANGAWfqHLhPloba+Rq2MvVFb9QkasHKqjaGL+RfWK+WrQ0oRoFsRMEoO+dRmOkMaFV3dA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gaofeng\\source\\repos\\WeCourseFaster\\WeCourseFaster\\WeCourseFaster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaofeng\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
